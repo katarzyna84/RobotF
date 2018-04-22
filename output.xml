@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20180422 11:10:41.188" generator="Robot 3.0 (Python 2.7.5 on linux2)">
+<suite source="/home/tester/RobotF/niedziela.robot" id="s1" name="Niedziela">
+<test id="s1-t1" name="My Test">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>hakuna matata</arg>
+</arguments>
+<status status="PASS" endtime="20180422 11:10:41.208" starttime="20180422 11:10:41.207"></status>
+</kw>
+<status status="PASS" endtime="20180422 11:10:41.208" critical="yes" starttime="20180422 11:10:41.207"></status>
+</test>
+<status status="PASS" endtime="20180422 11:10:41.208" starttime="20180422 11:10:41.189"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Niedziela" pass="1">Niedziela</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
